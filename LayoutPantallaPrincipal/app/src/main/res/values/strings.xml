@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">LayoutPantallaPrincipal</string>
+    <string name="hello">Buenos dias</string>
+    <string name="username">Sonic the Hedgehog</string>
+    <string name="menutitle">Menu del dia</string>
+    <string name="dish">Pollo a la brasa</string>
+    <string name="rating">⭐⭐ 4.9/5.0</string>
+    <string name="reservar_ticket">Reservar ticket</string>
+    <string name="mostrar_ticket">Mostrar ticket</string>
+    <string name="turnos_titulo">Turnos</string>
+    <string name="turno1">Turno 1: 12:00 - 12:20pm</string>
+    <string name="turno2">Turno 2: 12:20 - 12:40pm</string>
+    <string name="turno3">Turno 3: 12:40 - 01:00pm</string>
+    <string name="dar_puntuacion">Dar puntuacion</string>
+    <string name="comedor_unmsm">Comedor UNMSM</string>
+</resources>
